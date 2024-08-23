@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\services\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:services\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\.net_core_finance_project_teddy_smith\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22505F7B-8A30-40E5-AAB4-BEFA3BC02347}|api.csproj|solutionrelative:dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +58,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T14:20:15.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:41:42.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:40:56.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:31:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FMPService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Services\\FMPService.cs",
+              "RelativeDocumentMoniker": "Services\\FMPService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Services\\FMPService.cs",
+              "RelativeToolTip": "Services\\FMPService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:27:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaimsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ClaimsExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeToolTip": "Extensions\\ClaimsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:27:33.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:26:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:21:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Controllers\\StockController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:20:03.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateStockRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Dtos\\Stock\\CreateStockRequestDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Stock\\CreateStockRequestDto.cs",
@@ -47,55 +177,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T11:50:21.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Controllers\\StockController.cs",
-              "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwFIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:44:41.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockMappers.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Mappers\\StockMappers.cs",
-              "RelativeDocumentMoniker": "Mappers\\StockMappers.cs",
-              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Mappers\\StockMappers.cs",
-              "RelativeToolTip": "Mappers\\StockMappers.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAUAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:41:57.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "Models\\Stock.cs",
-              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Models\\Stock.cs",
-              "RelativeToolTip": "Models\\Stock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:41:30.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StockDto.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Stock\\StockDto.cs",
-              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\.Net_Core_Finance_Project_Teddy_Smith\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeToolTip": "Dtos\\Stock\\StockDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:33:59.756Z"
             }
           ]
         }
